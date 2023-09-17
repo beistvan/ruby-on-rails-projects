@@ -11,3 +11,8 @@ rails generate controller Pages
 #  def home
 #  end
 # end
+
+# routes
+# config/routes.rb
+# get 'welcome', to: 'pages#home'
+
